@@ -1,0 +1,21 @@
+{
+  "nome": "David",
+  "idade": 20,
+  "renda_mensal": 2500.00,
+  "perfil_risco": "conservador",
+  "objetivo": "reserva de emergencia",
+  "gastos_fixos": {
+    "aluguel": 800.00,
+    "alimentacao": 400.00,
+    "transporte": 200.00,
+    "outros": 150.00
+  },
+  "saldo_atual": 1500.00,
+  "dividas": [
+    {
+      "descricao": "cartao de credito",
+      "valor": 500.00,
+      "juros_mensais": 5.5
+    }
+  ]
+}

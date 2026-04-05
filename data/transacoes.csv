@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo
+2024-01-05,Supermercado,Alimentação,-350.00,despesa
+2024-01-08,Salário,Renda,+2500.00,receita
+2024-01-10,Aluguel,Moradia,-800.00,despesa
+2024-01-12,Farmácia,Saúde,-80.00,despesa
+2024-01-15,Restaurante,Alimentação,-45.00,despesa
+2024-01-18,Transporte,Transporte,-120.00,despesa
+2024-01-20,Netflix,Lazer,-45.00,despesa
+2024-01-22,Academia,Saúde,-99.00,despesa
+2024-01-25,Supermercado,Alimentação,-180.00,despesa
+2024-01-28,Freelance,Renda,+500.00,receita

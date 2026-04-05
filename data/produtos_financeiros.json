@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "Poupança",
+      "tipo": "investimento",
+      "rendimento": "0.5% ao mês",
+      "risco": "baixo",
+      "liquidez": "diária",
+      "indicado_para": "reserva de emergência"
+    },
+    {
+      "nome": "CDB",
+      "tipo": "investimento",
+      "rendimento": "100% CDI",
+      "risco": "baixo",
+      "liquidez": "no vencimento",
+      "indicado_para": "investimento de médio prazo"
+    },
+    {
+      "nome": "Tesouro Selic",
+      "tipo": "investimento",
+      "rendimento": "Selic atual",
+      "risco": "baixo",
+      "liquidez": "diária",
+      "indicado_para": "reserva de emergência e curto prazo"
+    }
+  ]
+}
